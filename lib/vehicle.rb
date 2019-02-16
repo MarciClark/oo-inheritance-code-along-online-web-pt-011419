@@ -7,5 +7,6 @@ class Vehicle
     @wheel_number = whee;_number 
   end 
   
-  
+  def go 
+    
 end
