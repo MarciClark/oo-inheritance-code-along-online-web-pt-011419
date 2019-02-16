@@ -4,7 +4,7 @@ class Vehicle
   
   def initialize(wheel_suze, wheel_number)
     @wheel_size = wheel_size 
-    @wheel_number = whee;_number 
+    @wheel_number = wheel_number 
   end 
   
   def go 
